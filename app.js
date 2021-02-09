@@ -11,7 +11,7 @@ collectSongs = songs => {
     console.log(songs);
     const searchSong = document.getElementById("search-song");
     document.getElementById("search-song").innerText = '';
-    document.getElementById("show-lyrics").innerText = '';
+  
 
     songs.forEach(song => {
 
