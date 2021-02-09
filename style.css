@@ -1,4 +1,4 @@
-body{
+ body{
     background-color: #13141b;
     color: #ffffff;
     background-image: url(images/bg-image.png);
@@ -37,5 +37,8 @@ body{
 .single-result{
     background: rgba(255, 255, 255, 0.2);
     border-radius: 15px;
+}
+.audio{
+    /* width: 30%; */
 }
 
